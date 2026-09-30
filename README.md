@@ -49,7 +49,7 @@ O código abre o navegador, acessa um sistema de login, realiza autenticação e
 
     obs
 
-5. xecute o script:
+5. Execute o script:
 6. '''bash
    python main.py
 
